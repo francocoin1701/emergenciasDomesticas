@@ -1,0 +1,28 @@
+body{
+  padding: 0;
+  background-color: azure;
+}
+
+#quiensoy{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.promociones_box{
+  position: relative;
+  background-image: url(sliderCampana.jpeg);
+  opacity: 0.5;
+}
+.promociones_box #letras{
+  position: relative;
+  z-index: 2;
+  opacity: 1.5;
+}
+.footer{
+  background-color: darkblue;
+  height: 300px;;
+}
+.footer .imgElquin{
+  position: absolute;
+  left:1000px;
+  
+}
