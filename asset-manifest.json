@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/emergenciasDomesticas/static/css/main.a101bc89.chunk.css",
+    "main.js": "/emergenciasDomesticas/static/js/main.db84cff8.chunk.js",
+    "main.js.map": "/emergenciasDomesticas/static/js/main.db84cff8.chunk.js.map",
+    "runtime-main.js": "/emergenciasDomesticas/static/js/runtime-main.677bca65.js",
+    "runtime-main.js.map": "/emergenciasDomesticas/static/js/runtime-main.677bca65.js.map",
+    "static/css/2.800be05e.chunk.css": "/emergenciasDomesticas/static/css/2.800be05e.chunk.css",
+    "static/js/2.1bf4978f.chunk.js": "/emergenciasDomesticas/static/js/2.1bf4978f.chunk.js",
+    "static/js/2.1bf4978f.chunk.js.map": "/emergenciasDomesticas/static/js/2.1bf4978f.chunk.js.map",
+    "index.html": "/emergenciasDomesticas/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/emergenciasDomesticas/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.a101bc89.chunk.css.map": "/emergenciasDomesticas/static/css/main.a101bc89.chunk.css.map",
+    "static/js/2.1bf4978f.chunk.js.LICENSE.txt": "/emergenciasDomesticas/static/js/2.1bf4978f.chunk.js.LICENSE.txt",
+    "static/media/EDITSLIDER.5959db0b.jpg": "/emergenciasDomesticas/static/media/EDITSLIDER.5959db0b.jpg",
+    "static/media/airesEdit.f3c0eda8.jpg": "/emergenciasDomesticas/static/media/airesEdit.f3c0eda8.jpg",
+    "static/media/campanaEdit.464cc25f.jpg": "/emergenciasDomesticas/static/media/campanaEdit.464cc25f.jpg",
+    "static/media/colageImg.6f196d5c.png": "/emergenciasDomesticas/static/media/colageImg.6f196d5c.png",
+    "static/media/editElquinImage.3d350334.png": "/emergenciasDomesticas/static/media/editElquinImage.3d350334.png",
+    "static/media/image.85739af5.jpg": "/emergenciasDomesticas/static/media/image.85739af5.jpg",
+    "static/media/logo.3ab03e8e.jpg": "/emergenciasDomesticas/static/media/logo.3ab03e8e.jpg",
+    "static/media/logo.f523091d.png": "/emergenciasDomesticas/static/media/logo.f523091d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677bca65.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.1bf4978f.chunk.js",
+    "static/css/main.a101bc89.chunk.css",
+    "static/js/main.db84cff8.chunk.js"
+  ]
+}
